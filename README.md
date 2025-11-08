@@ -21,7 +21,7 @@ This repository contains one of the portfolio projects needed to demonstrate bac
 ## 📸 Application Preview
 <img width="842" height="1212" alt="image" src="https://github.com/user-attachments/assets/473af235-53dc-4ce0-96d3-8bb05df61924" />
 
-🌐 **Live Demo:** https://full-stack-exercise-tracker-1-richardhuynh53.replit.app
+🌐 **Live Demo:** https://full-stack-exercise-tracker-htwosebpb-acheronx0577s-projects.vercel.app
 
 ---
 
